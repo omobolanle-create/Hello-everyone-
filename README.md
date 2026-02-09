@@ -1,5 +1,5 @@
 # Number guessing game
-This is a Python project  I built as a beginner while learning python
+This is a Python project I built as a beginner while learning Python.
 # About the project
 The program picks a random number between 1 and 10.
 The user keeps guessing until the correct number is entered.
@@ -12,5 +12,5 @@ it gives hints when the guess is too high or too low.
 - working with random module
   # How to run it
   ```bash
-  python Guessing_game.py
+  python number_guessing_game.py
   ```
